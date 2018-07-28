@@ -1,0 +1,54 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN-JST-VH_Straight_02
+D Stand-Alone CAN Controller with SPI Interface, TSSOP-20, Industrial temperature range
+K CAN Controller SPI
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
+$ENDCMP
+#
+$CMP NCV8402D
+D 42V Vds, 2.0A Id, 165mOhm Rds, Dual N-Channel MOSFET, SO-8
+K Dual Self-Protected N-Channel MOSFET
+$ENDCMP
+#
+$CMP PCF8575
+D 16 Bit Port/Expander to I2C Bus, SSOP24
+K I2C Expander
+F http://www.ti.com/lit/ds/symlink/pcf8575.pdf
+$ENDCMP
+#
+$CMP R_Network08
+D 8 Resistor network, star topology, bussed resistors, small symbol
+K R Network star-topology
+F http://www.farnell.com/datasheets/1448068.pdf
+$ENDCMP
+#
+$CMP R_Network08_double_bus
+D 8 Resistor network, star topology, bussed resistors, small symbol
+K R Network star-topology
+F http://www.farnell.com/datasheets/1448068.pdf
+$ENDCMP
+#
+$CMP STN1170
+D Multiprotocol OBD to UART interpreter
+$ENDCMP
+#
+$CMP TLF80511TFV50
+D 400mA 5V Linear Regulator, Automotive, TO-252
+K Low Dropout Linear Fixed Voltage Regulator
+F https://www.infineon.com/dgdl/Infineon-TLF80511TF-DS-v01_00-EN.pdf?fileId=5546d46259d9a4bf0159fa3199ac3f4b
+$ENDCMP
+#
+$CMP TLP293-4
+D Quad DC Optocoupler, Vce 80V, CTR 50-100%, SOP16
+K NPN DC Quad Optocoupler
+F http://www.semicon.toshiba.co.jp/docs/datasheet/en/Opto/TLP291-4_en_datasheet_120322.pdf
+$ENDCMP
+#
+$CMP TS5A22364-Q1
+D 0.65-Ohm Dual SPDT Analog Switch, BBM, negative swing capability
+K SDPT Switch, automotive AEC-Q100
+F http://www.ti.com/lit/ds/symlink/ts5a22364-q1.pdf
+$ENDCMP
+#
+#End Doc Library
