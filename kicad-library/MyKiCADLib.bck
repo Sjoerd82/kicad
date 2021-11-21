@@ -1,23 +1,6 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP CONN-JST-VH_Straight_02
-D JST VH Connector, single row, 01x02, pin header
-K connector
-$ENDCMP
-#
-$CMP MCP2515-E/ST
-D Stand-Alone CAN Controller with SPI Interface, TSSOP-20, Extended temperature range
-K CAN Controller SPI
-F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
-$ENDCMP
-#
-$CMP MCP2515-I/SO
-D Stand-Alone CAN Controller with SPI Interface, SOIC-18
-K CAN Controller SPI
-F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
-$ENDCMP
-#
-$CMP MCP2515-I/ST
 D Stand-Alone CAN Controller with SPI Interface, TSSOP-20, Industrial temperature range
 K CAN Controller SPI
 F http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf
